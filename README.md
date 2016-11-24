@@ -1,2 +1,2 @@
 # footy-squad
-Used to maintain a foot ball app related project
+Sample app just for testing
